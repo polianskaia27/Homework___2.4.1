@@ -1,0 +1,21 @@
+{
+  "name": "npm_for_study",
+  "version": "1.0.0",
+  "description": "I want to try npm",
+  "main": "expenses.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Homework___2.4.1"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Aleksandra Polianskaia",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
